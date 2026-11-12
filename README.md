@@ -1,4 +1,6 @@
-<h1 align="center">BurgerCheddar</h1>
+<p align="center">
+  <img src="screenshots/logo.png" width="420" alt="Burger Cheddar">
+</p>
 
 <p align="center">
   <b>Лендинг бургерной «Бургер чеддер»: меню из 12 бургеров, переключение валюты и форма заказа с проверкой полей.</b>
